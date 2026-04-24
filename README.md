@@ -10,7 +10,7 @@
 
 ## 📂 Проекты
 
-- **[smart-light](https://github.com/flw2016/smart-light)** — умный светофор на ESP32: конечный автомат, прерывания, millis() (C++17, PlatformIO, Wokwi)
+- **[smart-light](https://github.com/flw2016/smart-light)** — умный светофор на ESP32: FreeRTOS, семафоры, конечный автомат (C++17, PlatformIO, Wokwi)
 - **[lockfree-ring](https://github.com/flw2016/lockfree-ring)** — lock-free SPSC кольцевой буфер на C++17 с атомиками и тестами
 - **[rus-to-eng](https://github.com/flw2016/rus-to-eng)** — системный перехватчик клавиатуры на уровне ядра Linux (C++17, libevdev, uinput, RAII)
 - **[gl-test](https://github.com/flw2016/gl-test)** — вращение 3D-треугольника на чистом матане (OpenGL, ручные матрицы 3x3)
